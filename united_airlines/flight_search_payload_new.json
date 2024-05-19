@@ -1,0 +1,51 @@
+{
+  "SearchTypeSelection": 1,
+  "SortType": "bestmatches",
+  "SortTypeDescending": false,
+  "Trips": [
+    {
+      "Origin": "JFK",
+      "Destination": "HND",
+      "DepartDate": "2023-12-24",
+      "Index": 1,
+      "TripIndex": 1,
+      "SearchRadiusMilesOrigin": 0,
+      "SearchRadiusMilesDestination": 0,
+      "DepartTimeApprox": 0,
+      "SearchFiltersIn": {
+        "FareFamily": "BUSINESS",
+        "AirportsStop": null,
+        "AirportsStopToAvoid": null
+      }
+    }
+  ],
+  "CabinPreferenceMain": "premium",
+  "PaxInfoList": [
+    {
+      "PaxType": 1
+    }
+  ],
+  "AwardTravel": true,
+  "NGRP": true,
+  "CalendarLengthOfStay": 0,
+  "PetCount": 0,
+  "RecentSearchKey": "JFKHND12/24/2023",
+  "CalendarFilters": {
+    "Filters": {
+      "PriceScheduleOptions": {
+        "Stops": 1
+      }
+    }
+  },
+  "Characteristics": [
+    {
+      "Code": "SOFT_LOGGED_IN",
+      "Value": false
+    },
+    {
+      "Code": "UsePassedCartId",
+      "Value": false
+    }
+  ],
+  "FareType": "mixedtoggle"
+}

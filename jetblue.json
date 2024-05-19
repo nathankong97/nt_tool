@@ -1,0 +1,25 @@
+{
+  "tripType": "oneWay",
+  "from": "JFK",
+  "to": "BOS",
+  "depart": "2024-02-10",
+  "cabin": "economy",
+  "refundable": false,
+  "dates": {
+    "before": "3",
+    "after": "3"
+  },
+  "pax": {
+    "ADT": 1,
+    "CHD": 0,
+    "INF": 0,
+    "UNN": 0
+  },
+  "redempoint": true,
+  "pointsBreakup": {
+    "option": "",
+    "value": 0
+  },
+  "isMultiCity": false,
+  "isDomestic": true
+}

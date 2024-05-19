@@ -1,0 +1,17 @@
+ASIA_AMERICA_MILES_THRESHOLD = {
+    "ECONOMY": 70000,
+    "PREMIUM_ECONOMY": 90000,
+    "BUSINESS": 140000,
+    "FIRST": 140000
+}
+
+PRODUCT_TYPE = {"MIN-BUSINESS-SURP-OR-DISP": "BUSINESS",
+                "MIN-BUSINESS-SURP-OR-DISP-NOT-MIXED": "BUSINESS",
+                "MIN-FIRST-SURP-OR-DISP": "FIRST",
+                "MIN-FIRST-SURP-OR-DISP-NOT-MIXED": "FIRST",
+                "ECO-PREMIUM-DISP": "PREMIUM_ECONOMY",
+                "ECO-PREMIUM-DISP-NOT-MIXED": "PREMIUM_ECONOMY",
+                "MIN-ECONOMY-SURP-OR-DISP": "ECONOMY"}
+
+#  Surplus Ticket: Saver Award
+#  Displacement Ticket: Standard Award

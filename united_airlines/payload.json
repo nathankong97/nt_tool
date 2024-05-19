@@ -1,0 +1,57 @@
+{
+  "SearchTypeSelection": 1,
+  "SortType": "bestmatches",
+  "SortTypeDescending": false,
+  "Trips": [
+    {
+      "Origin": "TYO",
+      "Destination": "ORD",
+      "DepartDate": "2023-11-14",
+      "Index": 1,
+      "TripIndex": 1,
+      "SearchRadiusMilesOrigin": 0,
+      "SearchRadiusMilesDestination": 0,
+      "DepartTimeApprox": 0,
+      "SearchFiltersIn": {
+        "FareFamily": "BUSINESS",
+        "AirportsStop": null,
+        "AirportsStopToAvoid": null
+      }
+    }
+  ],
+  "CabinPreferenceMain": "premium",
+  "PaxInfoList": [
+    {
+      "PaxType": 1,
+      "PtcList": [
+        "PPM"
+      ]
+    }
+  ],
+  "AwardTravel": true,
+  "NGRP": true,
+  "CalendarLengthOfStay": -1,
+  "PetCount": 0,
+  "RecentSearchKey": "TYOORD11/14/2023",
+  "CalendarFilters": {
+    "Filters": {
+      "PriceScheduleOptions": {
+        "Stops": 1
+      }
+    }
+  },
+  "Characteristics": [
+    {
+      "Code": "SOFT_LOGGED_IN",
+      "Value": false
+    },
+    {
+      "Code": "UsePassedCartId",
+      "Value": false
+    }
+  ],
+  "FareType": "mixedtoggle",
+  "BBXSolutionSetIdSelected": null,
+  "FlexibleDaysAfter": 0,
+  "FlexibleDaysBefore": 0
+}

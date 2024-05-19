@@ -1,0 +1,31 @@
+{
+  "origins": [
+    "la5"
+  ],
+  "destinations": [
+    "tyo"
+  ],
+  "dates": [
+    "2024-02-05"
+  ],
+  "numADTs": 1,
+  "numINFs": 0,
+  "fareView": "as_awards",
+  "onba": false,
+  "dnba": false,
+  "sessionID": "",
+  "solutionSetIDs": [],
+  "solutionIDs": [],
+  "qpxcVersion": "",
+  "discount": {
+    "code": "",
+    "status": 0,
+    "expirationDate": "2024-02-02T21:13:23.923Z",
+    "message": "",
+    "memo": "",
+    "type": 0,
+    "searchContainsDiscountedFare": false,
+    "campaignName": ""
+  },
+  "lockFare": false
+}

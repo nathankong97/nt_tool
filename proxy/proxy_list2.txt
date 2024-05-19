@@ -1,0 +1,64 @@
+186.121.235.66  8080    Bolivia La Paz
+202.86.138.18   8080    Macau Macao
+172.67.181.195  80      United States
+172.67.0.6      80      United States
+172.67.176.217  80      United States
+172.67.185.214  80      United States
+172.67.181.233  80      United States
+172.64.136.64   80      United States
+172.67.240.149  80      United States
+172.67.105.138  80      United States
+141.193.213.67  80      United States
+159.112.235.26  80      United States
+172.67.185.210  80      United States
+172.67.75.167   80      United States
+172.67.219.174  80      United States
+172.64.131.16   80      United States
+172.67.7.11     80      United States
+159.112.235.205 80      United States
+172.67.182.34   80      United States
+172.67.182.10   80      United States
+190.93.244.24   80      United States San Jose
+103.21.244.34   80      United States Ashburn
+172.67.180.51   80      United States
+172.67.180.26   80      United States
+172.67.162.173  80      United States
+172.67.172.152  80      United States
+172.67.192.13   80      United States
+172.67.75.181   80      United States
+172.64.152.2    80      United States
+172.64.193.76   80      United States
+172.64.80.55    80      United States
+103.21.244.143  80      United States Ashburn
+103.21.244.76   80      United States Ashburn
+172.67.111.206  80      United States
+172.67.197.55   80      United States
+172.67.216.72   80      United States
+172.67.151.120  80      United States
+66.235.200.84   80      United States
+69.84.182.17    80      United States
+172.67.155.111  80      United States
+172.67.162.127  80      United States
+172.67.207.187  80      United States
+172.67.171.219  80      United States
+141.193.213.108 80      United States
+141.193.213.173 80      United States
+172.67.0.26     80      United States
+172.67.75.163   80      United States
+172.67.125.224  80      United States
+172.67.185.158  80      United States
+172.67.110.87   80      United States
+172.67.136.41   80      United States
+103.21.244.130  80      United States Ashburn
+103.21.244.44   80      United States Ashburn
+172.67.193.241  80      United States
+172.67.83.66    80      United States
+172.64.206.28   80      United States
+159.112.235.33  80      United States
+63.141.128.152  80      United States
+172.67.125.246  80      United States
+172.66.41.4     80      United States
+172.67.70.87    80      United States
+103.21.244.10   80      United States Ashburn
+172.67.3.150    80      United States
+172.67.176.16   80      United States

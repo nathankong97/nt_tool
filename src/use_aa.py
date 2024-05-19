@@ -9,10 +9,10 @@ from nt_sorter import get_default_sort_options, sort_airbounds
 from utils import date_range
 
 if __name__ == '__main__':
-    origins = ['LAX']
+    origins = ['HKG', "SZX", "CAN"]
     destinations = ['TYO']
-    start_dt = '2023-05-05'
-    end_dt = '2023-05-07'
+    start_dt = '2023-12-23'
+    end_dt = '2023-12-26'
     dates = date_range(start_dt, end_dt)
     #  cabin class removed, pls use price filter.
     airbound_filter = AirBoundFilter(

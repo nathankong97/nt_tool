@@ -7,10 +7,10 @@ from ac_searcher import Ac_Searcher
 from utils import date_range
 
 if __name__ == '__main__':
-    origins = ['SHA']
-    destinations = ['TYO']
-    start_dt = '2023-06-20'
-    end_dt = '2023-06-20'
+    origins = ["NYC", "IAD", "ORD"]
+    destinations = ["HKG", "SZX", "CAN"]
+    start_dt = '2023-12-01'
+    end_dt = '2023-12-10'
     dates = date_range(start_dt, end_dt)
     #  means eco, pre, biz and first
     cabin_class = [

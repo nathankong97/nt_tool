@@ -1,0 +1,300 @@
+50.173.140.145	80	US	United States	anonymous	no	no	8 secs ago
+50.227.121.38	80	US	United States	anonymous	no	no	8 secs ago
+50.218.57.70	80	US	United States	anonymous	no	no	8 secs ago
+82.119.96.254	80	SK	Slovakia	anonymous	no	no	8 secs ago
+50.239.72.18	80	US	United States	anonymous	no	no	8 secs ago
+213.33.126.130	80	AT	Austria	anonymous	no	no	8 secs ago
+213.143.113.82	80	AT	Austria	anonymous	no	no	8 secs ago
+213.33.2.28	80	AT	Austria	anonymous	no	no	8 secs ago
+62.99.138.162	80	AT	Austria	anonymous	no	no	8 secs ago
+41.230.216.70	80	TN	Tunisia	anonymous	no	no	8 secs ago
+80.228.235.6	80	DE	Germany	anonymous	no	no	8 secs ago
+50.228.141.103	80	US	United States	anonymous	no	no	8 secs ago
+50.171.2.13	80	US	United States	anonymous	no	no	8 secs ago
+50.231.110.26	80	US	United States	anonymous	no	no	8 secs ago
+50.217.226.45	80	US	United States	anonymous	no	no	8 secs ago
+85.26.146.169	80	RU	Russian Federation	anonymous	no	no	8 secs ago
+50.173.140.151	80	US	United States	anonymous	no	no	8 secs ago
+50.168.72.117	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.226	80	US	United States	anonymous	no	no	8 secs ago
+50.219.106.80	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.228	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.225	80	US	United States	anonymous	no	no	8 secs ago
+32.223.6.94	80	US	United States	anonymous	no	no	8 secs ago
+50.168.34.138	80	US	United States	anonymous	no	no	8 secs ago
+50.169.62.106	80	US	United States	anonymous	no	no	8 secs ago
+50.169.62.109	80	US	United States	anonymous	no	no	8 secs ago
+50.221.166.2	80	US	United States	anonymous	no	no	8 secs ago
+50.217.153.73	80	US	United States	anonymous	no	no	8 secs ago
+50.171.68.130	80	US	United States	anonymous	no	no	8 secs ago
+195.23.57.78	80	PT	Portugal	anonymous	no	no	8 secs ago
+50.227.121.35	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.222	80	US	United States	anonymous	no	no	8 secs ago
+50.168.72.112	80	US	United States	anonymous	no	no	8 secs ago
+50.207.199.80	80	US	United States	anonymous	no	no	8 secs ago
+50.173.140.148	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.229	80	US	United States	anonymous	no	no	8 secs ago
+107.1.93.218	80	US	United States	anonymous	no	no	8 secs ago
+50.168.49.106	80	US	United States	anonymous	no	no	8 secs ago
+50.207.199.86	80	US	United States	anonymous	no	no	8 secs ago
+50.218.57.74	80	US	United States	anonymous	no	no	8 secs ago
+50.173.140.146	80	US	United States	anonymous	no	no	8 secs ago
+50.170.90.28	80	US	United States	anonymous	no	no	8 secs ago
+50.174.41.66	80	US	United States	anonymous	no	no	8 secs ago
+50.218.57.67	80	US	United States	anonymous	no	no	8 secs ago
+24.205.201.186	80	US	United States	anonymous	no	no	8 secs ago
+50.204.190.234	80	US	United States	anonymous	no	no	8 secs ago
+50.228.141.97	80	US	United States	anonymous	no	no	8 secs ago
+50.168.163.180	80	US	United States	anonymous	no	no	8 secs ago
+107.1.93.211	80	US	United States	anonymous	no	no	8 secs ago
+50.222.245.45	80	US	United States	anonymous	no	no	8 secs ago
+50.173.140.147	80	US	United States	anonymous	no	no	8 secs ago
+50.175.31.240	80	US	United States	anonymous	no	no	8 secs ago
+50.230.222.202	80	US	United States	anonymous	no	no	8 secs ago
+50.174.145.14	80	US	United States	anonymous	no	no	8 secs ago
+50.174.7.157	80	US	United States	anonymous	no	no	8 secs ago
+50.171.2.10	80	US	United States	anonymous	no	no	8 secs ago
+50.168.49.105	80	US	United States	anonymous	no	no	8 secs ago
+127.0.0.7	80		Unknown	anonymous	no	no	8 secs ago
+50.202.75.26	80	US	United States	anonymous	no	no	8 secs ago
+50.217.226.44	80	US	United States	anonymous	no	no	8 secs ago
+50.204.219.231	80	US	United States	anonymous	no	no	8 secs ago
+50.168.163.183	80	US	United States	anonymous	no	no	8 secs ago
+50.170.90.34	80	US	United States	anonymous	no	no	8 secs ago
+91.249.134.148	80	DE	Germany	anonymous	no	no	8 secs ago
+50.171.2.12	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.231	80	US	United States	anonymous	no	no	8 secs ago
+190.103.177.131	80	AR	Argentina	anonymous	yes	no	8 secs ago
+50.122.86.118	80	US	United States	anonymous	no	no	8 secs ago
+50.173.140.138	80	US	United States	anonymous	no	no	8 secs ago
+50.171.2.11	80	US	United States	anonymous	no	no	8 secs ago
+50.175.31.241	80	US	United States	anonymous	no	no	8 secs ago
+0.0.0.0	80		Unknown	anonymous	no	no	8 secs ago
+50.173.140.150	80	US	United States	anonymous	no	no	8 secs ago
+50.237.207.186	80	US	United States	anonymous	no	no	8 secs ago
+50.228.141.99	80	US	United States	anonymous	no	no	8 secs ago
+50.217.226.43	80	US	United States	anonymous	no	no	8 secs ago
+50.217.153.78	80	US	United States	anonymous	no	no	8 secs ago
+50.231.172.74	80	US	United States	anonymous	no	no	8 secs ago
+50.218.57.71	80	US	United States	anonymous	no	no	8 secs ago
+50.170.90.24	80	US	United States	anonymous	no	no	8 secs ago
+68.185.57.66	80	US	United States	anonymous	no	no	8 secs ago
+50.168.72.122	80	US	United States	anonymous	no	no	8 secs ago
+50.174.7.154	80	US	United States	anonymous	no	no	8 secs ago
+107.1.93.208	80	US	United States	anonymous	no	no	8 secs ago
+50.174.7.158	80	US	United States	anonymous	no	no	8 secs ago
+50.227.121.32	80	US	United States	anonymous	no	no	8 secs ago
+50.172.23.10	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.227	80	US	United States	anonymous	no	no	8 secs ago
+50.174.7.153	80	US	United States	anonymous	no	no	8 secs ago
+50.222.245.41	80	US	United States	anonymous	no	no	8 secs ago
+50.171.32.224	80	US	United States	anonymous	no	no	8 secs ago
+194.158.203.14	80	BY	Belarus	anonymous	no	no	8 secs ago
+50.204.219.228	80	US	United States	anonymous	no	no	8 secs ago
+50.219.106.82	80	US	United States	anonymous	no	no	8 secs ago
+80.150.50.226	80	DE	Germany	anonymous	no	no	8 secs ago
+213.157.6.50	80	DE	Germany	anonymous	no	no	8 secs ago
+50.207.199.82	80	US	United States	anonymous	no	no	8 secs ago
+50.172.75.122	80	US	United States	anonymous	no	no	8 secs ago
+50.219.106.74	80	US	United States	anonymous	no	no	8 secs ago
+50.170.90.25	80	US	United States	anonymous	no	no	8 secs ago
+103.87.169.189	32650	IN	India	transparent	no	no	1 min ago
+200.91.204.50	999	CO	Colombia	transparent	no	no	4 mins ago
+36.89.212.250	8080	ID	Indonesia	transparent	no	no	4 mins ago
+182.253.216.163	8080	ID	Indonesia	transparent	no	no	7 mins ago
+213.57.128.161	80	IL	Israel	transparent	no	no	7 mins ago
+34.23.45.223	80	US	United States	elite proxy	yes	no	10 mins ago
+183.100.14.134	8000	KR	South Korea	elite proxy	yes	no	10 mins ago
+91.209.11.132	80	UA	Ukraine	anonymous	yes	no	10 mins ago
+122.175.58.131	80	IN	India	elite proxy	yes	no	10 mins ago
+179.61.253.133	80	DE	Germany	anonymous	yes	no	10 mins ago
+167.235.181.45	27000	DE	Germany	elite proxy	no	yes	10 mins ago
+144.49.99.190	8080	SG	Singapore	elite proxy	no	yes	10 mins ago
+50.221.74.130	80	US	United States	anonymous	no	no	10 mins ago
+178.33.3.163	8080	FR	France	elite proxy	yes	yes	10 mins ago
+50.168.163.177	80	US	United States	anonymous	no	no	10 mins ago
+50.169.135.10	80	US	United States	anonymous	no	no	10 mins ago
+50.217.226.41	80	US	United States	anonymous	no	no	10 mins ago
+50.207.199.81	80	US	United States	anonymous	no	no	10 mins ago
+50.169.175.234	80	US	United States	anonymous	no	no	10 mins ago
+50.206.25.106	80	US	United States	anonymous	no	no	10 mins ago
+20.24.43.214	80	SG	Singapore	elite proxy	no	no	10 mins ago
+50.228.141.96	80	US	United States	anonymous	no	no	10 mins ago
+50.173.140.149	80	US	United States	anonymous	no	no	10 mins ago
+50.204.219.226	80	US	United States	anonymous	no	no	10 mins ago
+20.206.106.192	80	BR	Brazil	elite proxy	no	no	10 mins ago
+50.222.245.43	80	US	United States	anonymous	no	no	10 mins ago
+150.107.136.110	8082	ID	Indonesia	anonymous	yes	no	10 mins ago
+103.13.75.194	28080	MY	Malaysia	anonymous	no	no	10 mins ago
+50.174.7.156	80	US	United States	anonymous	no	no	10 mins ago
+50.169.62.104	80	US	United States	anonymous	no	no	10 mins ago
+50.175.31.247	80	US	United States	anonymous	no	no	10 mins ago
+200.62.96.71	80	NI	Nicaragua	anonymous	yes	no	10 mins ago
+198.49.68.80	80	US	United States	elite proxy	no	no	10 mins ago
+85.8.68.2	80	DE	Germany	anonymous	no	no	10 mins ago
+50.174.7.152	80	US	United States	anonymous	no	no	10 mins ago
+50.222.245.46	80	US	United States	anonymous	no	no	10 mins ago
+216.137.184.253	80	US	United States	elite proxy	yes	no	10 mins ago
+50.222.245.40	80	US	United States	anonymous	no	no	10 mins ago
+50.171.2.15	80	US	United States	anonymous	no	no	10 mins ago
+50.168.163.182	80	US	United States	anonymous	no	no	10 mins ago
+107.174.181.211	80	US	United States	anonymous	yes	no	10 mins ago
+50.174.34.186	80	US	United States	anonymous	no	no	10 mins ago
+133.18.234.13	80	JP	Japan	anonymous	no	no	10 mins ago
+50.218.57.66	80	US	United States	anonymous	no	no	10 mins ago
+107.1.93.213	80	US	United States	anonymous	no	no	10 mins ago
+50.168.72.113	80	US	United States	anonymous	no	no	10 mins ago
+50.217.153.79	80	US	United States	anonymous	no	no	10 mins ago
+50.171.2.14	80	US	United States	anonymous	no	no	10 mins ago
+50.228.83.226	80	US	United States	anonymous	no	no	10 mins ago
+47.74.152.29	8888	SG	Singapore	anonymous	no	no	10 mins ago
+95.216.162.70	80	FI	Finland	anonymous	yes	no	10 mins ago
+50.220.168.134	80	US	United States	anonymous	no	no	10 mins ago
+50.168.72.115	80	US	United States	anonymous	no	no	10 mins ago
+50.239.72.16	80	US	United States	anonymous	no	no	10 mins ago
+50.175.31.243	80	US	United States	anonymous	no	no	10 mins ago
+50.222.245.50	80	US	United States	anonymous	no	no	10 mins ago
+103.149.130.38	80	BD	Bangladesh	anonymous	no	no	10 mins ago
+50.168.163.179	80	US	United States	anonymous	no	no	10 mins ago
+198.199.86.11	8080	US	United States	anonymous	no	no	10 mins ago
+146.19.106.109	3128	CA	Canada	anonymous	yes	no	10 mins ago
+50.168.72.114	80	US	United States	anonymous	no	no	10 mins ago
+51.15.242.202	8888	FR	France	anonymous	no	no	10 mins ago
+50.168.49.108	80	US	United States	anonymous	no	no	10 mins ago
+50.200.12.84	80	US	United States	anonymous	no	no	10 mins ago
+50.204.219.227	80	US	United States	anonymous	no	no	10 mins ago
+41.207.187.178	80	TG	Togo	anonymous	no	no	10 mins ago
+117.251.103.186	8080	IN	India	elite proxy	no	yes	10 mins ago
+62.141.11.68	80	CZ	Czech Republic	anonymous	no	no	10 mins ago
+201.217.49.2	80	PY	Paraguay	elite proxy	yes	no	10 mins ago
+103.169.254.186	8061	ID	Indonesia	transparent	no	no	13 mins ago
+112.175.158.70	80	KR	South Korea	transparent	no	no	14 mins ago
+43.156.0.125	8888	SG	Singapore	transparent	no	no	15 mins ago
+202.80.43.204	8080	VU	Vanuatu	transparent	no	no	19 mins ago
+54.36.81.217	8080	FR	France	transparent	no	no	19 mins ago
+1.224.3.122	3889	KR	South Korea	elite proxy	yes	no	20 mins ago
+5.180.44.150	8080	JP	Japan	elite proxy	no	yes	20 mins ago
+23.224.132.90	80	US	United States	anonymous	no	yes	20 mins ago
+50.218.57.65	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.219	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.210	80	US	United States	anonymous	no	no	21 mins ago
+50.206.111.88	80	US	United States	anonymous	no	no	21 mins ago
+50.174.145.8	80	US	United States	anonymous	no	no	21 mins ago
+96.113.159.162	80	US	United States	anonymous	no	no	21 mins ago
+50.238.154.98	80	US	United States	anonymous	no	no	21 mins ago
+50.168.210.238	80	US	United States	anonymous	no	no	21 mins ago
+50.218.57.64	80	US	United States	anonymous	no	no	21 mins ago
+50.174.145.12	80	US	United States	anonymous	no	no	21 mins ago
+50.168.163.166	80	US	United States	anonymous	no	no	21 mins ago
+50.174.145.15	80	US	United States	anonymous	no	no	21 mins ago
+212.145.210.146	80	ES	Spain	anonymous	no	no	21 mins ago
+50.228.141.101	80	US	United States	anonymous	no	no	21 mins ago
+50.174.7.162	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.212	80	US	United States	anonymous	no	no	21 mins ago
+50.170.90.31	80	US	United States	anonymous	no	no	21 mins ago
+50.219.106.83	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.217	80	US	United States	anonymous	no	no	21 mins ago
+50.219.106.84	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.214	80	US	United States	anonymous	no	no	21 mins ago
+50.169.62.110	80	US	United States	anonymous	no	no	21 mins ago
+50.206.111.89	80	US	United States	anonymous	no	no	21 mins ago
+50.168.163.181	80	US	United States	anonymous	no	no	21 mins ago
+50.223.38.98	80	US	United States	anonymous	no	no	21 mins ago
+50.207.199.87	80	US	United States	anonymous	no	no	21 mins ago
+64.225.8.203	10000	US	United States	elite proxy	no	yes	21 mins ago
+50.219.106.85	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.216	80	US	United States	anonymous	no	no	21 mins ago
+50.168.163.176	80	US	United States	anonymous	no	no	21 mins ago
+50.217.153.75	80	US	United States	anonymous	no	no	21 mins ago
+50.169.62.111	80	US	United States	anonymous	no	no	21 mins ago
+20.205.61.143	8123	HK	Hong Kong	elite proxy	no	no	21 mins ago
+50.235.240.86	80	US	United States	anonymous	no	no	21 mins ago
+50.219.106.86	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.221	80	US	United States	anonymous	no	no	21 mins ago
+50.217.226.47	80	US	United States	anonymous	no	no	21 mins ago
+190.58.248.86	80	TT	Trinidad and Tobago	anonymous	no	no	21 mins ago
+50.217.153.77	80	US	United States	anonymous	no	no	21 mins ago
+50.217.226.46	80	US	United States	anonymous	no	no	21 mins ago
+50.174.145.11	80	US	United States	anonymous	no	no	21 mins ago
+50.169.37.50	80	US	United States	anonymous	no	no	21 mins ago
+50.217.153.76	80	US	United States	anonymous	no	no	21 mins ago
+50.169.62.107	80	US	United States	anonymous	no	no	21 mins ago
+50.206.111.91	80	US	United States	anonymous	no	no	21 mins ago
+50.169.62.114	80	US	United States	anonymous	no	no	21 mins ago
+50.228.141.98	80	US	United States	anonymous	no	no	21 mins ago
+50.204.219.225	80	US	United States	anonymous	no	no	21 mins ago
+198.27.115.215	80	CA	Canada	anonymous	yes	no	21 mins ago
+50.219.106.81	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.223	80	US	United States	anonymous	no	no	21 mins ago
+107.1.93.209	80	US	United States	anonymous	no	no	21 mins ago
+50.220.21.202	80	US	United States	anonymous	no	no	21 mins ago
+139.162.14.220	8080	SG	Singapore	transparent	no	no	21 mins ago
+203.128.77.213	33378	ID	Indonesia	transparent	no	no	23 mins ago
+177.242.147.46	999	MX	Mexico	transparent	no	no	23 mins ago
+187.111.194.25	8080	BR	Brazil	transparent	no	no	24 mins ago
+131.196.212.172	80	CO	Colombia	elite proxy	yes	no	30 mins ago
+161.97.93.15	80	DE	Germany	elite proxy	yes	no	30 mins ago
+138.197.102.119	80	US	United States	elite proxy	yes	no	30 mins ago
+142.44.210.174	80	CA	Canada	elite proxy	yes	no	30 mins ago
+78.47.11.34	20009	DE	Germany	elite proxy	yes	no	30 mins ago
+82.180.139.155	80	US	United States	elite proxy	yes	no	30 mins ago
+138.91.159.185	80	US	United States	anonymous	yes	no	30 mins ago
+191.101.80.124	80	DE	Germany	elite proxy	yes	no	30 mins ago
+197.243.20.186	80	RW	Rwanda	elite proxy	yes	no	30 mins ago
+103.91.220.226	80	IN	India	elite proxy	yes	no	30 mins ago
+31.220.52.20	80	US	United States	elite proxy	yes	no	30 mins ago
+37.152.183.46	80	IR	Iran	elite proxy	yes	no	30 mins ago
+103.152.112.234	80	US	United States	anonymous	yes	no	30 mins ago
+190.12.95.170	47029	PE	Peru	transparent	no	no	30 mins ago
+67.43.228.253	1981	CA	Canada	elite proxy	yes	yes	30 mins ago
+188.136.142.3	8085	IR	Iran	transparent	no	no	31 mins ago
+5.28.35.226	9812	KH	Cambodia	transparent	no	no	31 mins ago
+88.119.139.237	53281	LT	Lithuania	transparent	no	no	32 mins ago
+91.92.155.207	3128	CH	Switzerland	transparent	no	no	36 mins ago
+112.175.158.76	80	KR	South Korea	transparent	no	no	40 mins ago
+197.255.126.69	80	GH	Ghana	elite proxy		no	40 mins ago
+167.71.212.154	80	SG	Singapore	elite proxy		no	40 mins ago
+4.247.16.242	80	IN	India	anonymous		no	40 mins ago
+128.199.132.44	80	SG	Singapore	anonymous	yes	no	40 mins ago
+103.151.20.131	80	ID	Indonesia	elite proxy		no	40 mins ago
+103.174.102.127	80	IN	India	elite proxy		no	40 mins ago
+47.56.110.204	8989	HK	Hong Kong	anonymous		no	40 mins ago
+182.72.203.246	80	IN	India	elite proxy		no	40 mins ago
+134.209.189.42	80	GB	United Kingdom	elite proxy	yes	no	40 mins ago
+58.234.116.197	80	KR	South Korea	anonymous		no	40 mins ago
+103.177.137.132	80	CA	Canada	anonymous	no	no	40 mins ago
+186.121.235.66	8080	BO	Bolivia	anonymous		no	40 mins ago
+41.204.63.118	80	GH	Ghana	elite proxy		no	40 mins ago
+20.44.206.138	80	SG	Singapore	anonymous		no	40 mins ago
+45.92.108.112	80	CH	Switzerland	elite proxy	no	no	40 mins ago
+103.77.60.14	80	BD	Bangladesh	anonymous	no	no	40 mins ago
+51.75.206.209	80	FR	France	elite proxy		no	40 mins ago
+4.178.104.186	80	FR	France	elite proxy		no	40 mins ago
+146.59.202.70	80	FR	France	elite proxy		no	40 mins ago
+195.110.34.74	80	FR	France	elite proxy	yes	no	40 mins ago
+181.212.58.68	80	CL	Chile	elite proxy		no	40 mins ago
+146.190.177.143	80	DE	Germany	elite proxy	yes	no	40 mins ago
+36.92.193.189	80	ID	Indonesia	elite proxy		no	40 mins ago
+178.21.163.24	80	IR	Iran	anonymous	yes	no	40 mins ago
+61.72.254.69	8061	KR	South Korea	elite proxy		no	40 mins ago
+130.162.161.128	80	GB	United Kingdom	anonymous	no	no	40 mins ago
+78.157.36.102	80	IR	Iran	anonymous	yes	no	40 mins ago
+135.125.161.112	80	FR	France	elite proxy		no	40 mins ago
+41.77.188.131	80	GN	Guinea	elite proxy	no	no	40 mins ago
+137.74.65.101	80	FR	France	elite proxy	yes	no	40 mins ago
+207.2.120.19	80	US	United States	anonymous	no	no	40 mins ago
+143.198.241.47	80	GB	United Kingdom	elite proxy		no	40 mins ago
+82.165.32.41	80	DE	Germany	anonymous		no	40 mins ago
+146.59.199.12	80	FR	France	elite proxy		no	40 mins ago
+213.191.194.24	80	BG	Bulgaria	elite proxy	yes	no	40 mins ago
+195.201.103.166	8084	DE	Germany	anonymous	no	no	40 mins ago
+51.195.101.97	80	FR	France	elite proxy		no	40 mins ago
+221.151.181.101	8000	KR	South Korea	anonymous	yes	no	40 mins ago
+186.121.235.222	8080	BO	Bolivia	anonymous	no	yes	40 mins ago
+141.136.42.164	80	GB	United Kingdom	elite proxy		no	40 mins ago
+51.124.209.11	80	NL	Netherlands	anonymous	no	no	40 mins ago
+185.178.47.135	80	RU	Russian Federation	elite proxy		no	40 mins ago
+103.123.25.65	80	ID	Indonesia	elite proxy		no	40 mins ago
+87.66.1.177	80	BE	Belgium	elite proxy		no	40 mins ago
+95.216.164.36	80	FI	Finland	elite proxy	no	no	40 mins ago
+146.83.205.10	8085	CL	Chile	elite proxy		no	40 mins ago
